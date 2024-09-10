@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" />
   </h2>
 
-  <p>This is the place where I opensource stuff and break things :rofl: <br>
+  <p>This is the place where I open-source stuff and break things :rofl: <br>
   🔭 &nbsp;I’m currently working on something cool :wink:</p>
 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunvarabhishek&" alt="chiarastef" width="1500" height="150" />
