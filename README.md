@@ -1,5 +1,4 @@
 <div align="center">
-
   <h2>
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
     नमस्ते (Namaste)🙏🏻, I'm Abhishek Gupta! 
@@ -9,9 +8,8 @@
   <p>This is the place where I opensource stuff and break things :rofl: <br>
   🔭 &nbsp;I’m currently working on something cool :wink:</p>
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunvarabhishek&" alt="chiarastef" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunvarabhishek&" alt="chiarastef" width="1500" height="150" />
 
-<br><br>
 
   <h3>💼 Languages & Tools</h3>
   <p>
@@ -34,7 +32,6 @@
     <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/codeblocks_104542.png" alt="codeblocks" width="35" height="35"/>
   </p>
 
-<br><br>
 ---
   <p>
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" align="center" />
