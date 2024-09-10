@@ -11,6 +11,8 @@
 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunvarabhishek&" alt="chiarastef" />
 
+<br><br>
+
   <h3>💼 Languages & Tools</h3>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="35" height="35"/>
@@ -32,6 +34,8 @@
     <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/codeblocks_104542.png" alt="codeblocks" width="35" height="35"/>
   </p>
 
+<br><br>
+---
   <p>
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" align="center" />
     <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
