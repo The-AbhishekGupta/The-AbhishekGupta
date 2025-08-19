@@ -1,20 +1,27 @@
-
 <div align="center">
   <h2>
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
     <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello!+I'm+Abhishek+Gupta" />
+        <img src="https://komarev.com/ghpvc/?username=the-abhishekgupta&style=for-the-badge&color=brightgreen" />
 </a>
 
   </h2>
 
+
   <p>
   🚀 Breaking things to build better ones.<br>
-  🔭 Currently experimenting with code, data & new possibilities.
+  <div style="display: flex; align-items: center; margin: 15px 0;">
+    <img width="25" src="https://em-content.zobj.net/source/skype/289/seedling_1f331.png" alt="learning"/>
+    <span style="margin-left: 12px;">Currently mastering code, data & new possibilities.</span>
+  </div> 
 </p>
 
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-abhishekgupta&" alt="chiarastef" width="1500" height="150" />
+
+
+
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-abhishekgupta&" alt="chiarastef" width="1500" height="150" />
 
 
   <h3>💼 Languages & Tools</h3>
@@ -32,11 +39,32 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35" height="35"/>
+    <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="django" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="35" height="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="35" height="35"/>
     <img src="https://www.logo.wine/a/logo/Microsoft_Office/Microsoft_Office-Logo.wine.svg" alt="ms-office" width="45" height="45"/>
   </p>
+
+---
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/xensen008/xensen008/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/xensen008/xensen008/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/xensen008/xensen008/output/github-contribution-grid-snake.svg"
+    height="120"  
+  />
+</picture>
+
 
 ---
   <p>
