@@ -1,18 +1,28 @@
+
 <div align="center">
   <h2>
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-    Hello!, I'm Abhishek Gupta! 
-    <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" />
+    <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello!+I'm+Abhishek+Gupta" />
+</a>
+
   </h2>
 
-  <p>This is the place where I open-source stuff and break things :rofl: <br>
-  🔭 &nbsp;I’m currently working on something cool :wink:</p>
+  <p>
+  🚀 Breaking things to build better ones.<br>
+  🔭 Currently experimenting with code, data & new possibilities.
+</p>
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=The-AbhishekGupta&" alt="chiarastef" width="1500" height="150" />
+
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-abhishekgupta&" alt="chiarastef" width="1500" height="150" />
 
 
   <h3>💼 Languages & Tools</h3>
   <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="35" height="35"/>
@@ -22,14 +32,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35" height="35"/>
-    <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="django" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="35" height="35"/>
     <img src="https://www.logo.wine/a/logo/Microsoft_Office/Microsoft_Office-Logo.wine.svg" alt="ms-office" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="35" height="35"/>
-    <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/codeblocks_104542.png" alt="codeblocks" width="35" height="35"/>
   </p>
 
 ---
