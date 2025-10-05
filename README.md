@@ -23,7 +23,7 @@
 
 
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=The-AbhishekGupta&" alt="AbhishekGupta" width="1500" height="150" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-abhishekgupta&" alt="AbhishekGupta" width="1500" height="150" />
   
  
 ---
