@@ -22,11 +22,11 @@
 
 
 
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=the-abhishekgupta&theme=icegray" alt="AbhishekGupta" width="1500" height="150" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=the-abhishekgupta&theme=icegray" alt="AbhishekGupta" width="1500" height="200" />
 
   
   
-<br><br>
+<br>
 <h2>💼 Languages & Tools</h2>
 
 <br>
