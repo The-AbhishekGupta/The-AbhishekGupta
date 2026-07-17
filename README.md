@@ -13,7 +13,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=abhlshekgupta&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=The-AbhishekGupta&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 
 </div>
 
@@ -36,13 +36,13 @@ I build **production-grade AI systems** that solve real business problems. My ex
 
 | Project | Description | Tech Stack | Highlights |
 |---------|-------------|------------|------------|
-| [**FraudShield-AI**](https://github.com/abhlshekgupta/FraudShield-AI) | Real-time fraud detection engine for financial transactions | Python, XGBoost, FastAPI, Docker | 95% detection rate, sub-100ms inference |
-| [**Enterprise-Document-AI**](https://github.com/abhlshekgupta/Enterprise-Document-AI) | Intelligent document processing with multi-modal extraction | PyTorch, Hugging Face, OCR, React | Processes 1000+ docs/hr |
-| [**AI-Multi-Model-Agent**](https://github.com/abhlshekgupta/AI-Multi-Model-Agent) | Multi-agent orchestration framework for complex AI workflows | LangChain, GPT-4, Vector DBs | Modular agent architecture |
-| [**Supply-Chain-Digital-Twin**](https://github.com/abhlshekgupta/Supply-Chain-Digital-Twin) | Digital twin simulation for supply chain optimization | Python, SimPy, Plotly, Dash | 30% cost reduction in simulations |
-| [**Edge-AI-Federated-Learning**](https://github.com/abhlshekgupta/Edge-AI-Federated-Learning) | Privacy-preserving ML with federated learning on edge devices | PyTorch, Flower, ONNX | Distributed training, no data sharing |
+| [**FraudShield-AI**](https://github.com/The-AbhishekGupta/FraudShield-AI) | Real-time fraud detection engine for financial transactions | Python, XGBoost, FastAPI, Docker | 95% detection rate, sub-100ms inference |
+| [**Enterprise-Document-AI**](https://github.com/The-AbhishekGupta/Enterprise-Document-AI) | Intelligent document processing with multi-modal extraction | PyTorch, Hugging Face, OCR, React | Processes 1000+ docs/hr |
+| [**AI-Multi-Model-Agent**](https://github.com/The-AbhishekGupta/AI-Multi-Model-Agent) | Multi-agent orchestration framework for complex AI workflows | LangChain, GPT-4, Vector DBs | Modular agent architecture |
+| [**Supply-Chain-Digital-Twin**](https://github.com/The-AbhishekGupta/Supply-Chain-Digital-Twin) | Digital twin simulation for supply chain optimization | Python, SimPy, Plotly, Dash | 30% cost reduction in simulations |
+| [**Edge-AI-Federated-Learning**](https://github.com/The-AbhishekGupta/Edge-AI-Federated-Learning) | Privacy-preserving ML with federated learning on edge devices | PyTorch, Flower, ONNX | Distributed training, no data sharing |
 
-[**→ View All 50+ Projects**](https://github.com/abhlshekgupta?tab=repositories)
+[**→ View All 50+ Projects**](https://github.com/The-AbhishekGupta?tab=repositories)
 
 ---
 
@@ -119,7 +119,7 @@ I build **production-grade AI systems** that solve real business problems. My ex
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=abhlshekgupta&theme=icegray"/>
+  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=The-AbhishekGupta&theme=icegray"/>
 </div>
 
 ---
